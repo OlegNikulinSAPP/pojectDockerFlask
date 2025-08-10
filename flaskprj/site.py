@@ -5,7 +5,7 @@ app = Flask(__name__)  # Создаём экземпляр Flask-приложе�
 
 @app.route('/')  # Декоратор для корневого URL
 def index():
-    return '<h1>Hello from Docker!</h1>'  # Ответ на запрос
+    return '<h1>Hello from Docker and from flaskprj!</h1>'  # Ответ на запрос
 
 
 if __name__ == '__main__':
