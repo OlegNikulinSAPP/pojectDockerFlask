@@ -6,7 +6,44 @@
   <component name="ChangeListManager">
     <list default="true" id="e3414177-2dd9-472e-bd78-664fd23b33cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_management_app/backend/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_management_app/backend/app/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-react-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_management_app/frontend/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +84,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python.disk_io_application.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.site.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Locadm/PycharmProjects/SinglyLinkedList&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.__init__.executor": "Run",
+    "Python.disk_io_application.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.site.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/NikulinOV/PycharmProjects/pojectDockerFlask"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Locadm\PycharmProjects\pojectDockerFlask\flaskprj" />
@@ -260,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756131791880</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Новая конфигурация">
+      <option name="closed" value="true" />
+      <created>1756133587703</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1756133587703</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="UnknownFeatures">
